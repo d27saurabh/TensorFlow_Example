@@ -1,0 +1,7 @@
+#Sat Dec 02 17:29:31 EST 2017
+base.0=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d499ea8704f9d00584e033336753261e5a10d1b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_259a71d4be5cdad20d2085667aba7be989705344\\classes.dex
+base.1=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_259a71d4be5cdad20d2085667aba7be989705344
+file.0=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d499ea8704f9d00584e033336753261e5a10d1b\\classes.dex

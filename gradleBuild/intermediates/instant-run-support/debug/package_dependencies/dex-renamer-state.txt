@@ -1,0 +1,4 @@
+#Sat Dec 02 17:27:27 EST 2017
+base.0=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2890222e189c68e77b9e00c46e5130cd07c2975b
+renamed.0=classes.dex
+file.0=C\:\\Users\\d27sa\\AndroidStudioProjects\\tensorflow-master\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_2890222e189c68e77b9e00c46e5130cd07c2975b\\classes.dex
